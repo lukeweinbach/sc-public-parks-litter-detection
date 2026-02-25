@@ -1,5 +1,5 @@
-# AI-Enhanced Litter Detection for Smart Park Management
-**A YOLOv8 Implementation for Finlay Park, Columbia, SC**
+# YOLOv8 Vision Model Litter Detection for Smart Park Management
+**An Implementation for Finlay Park, Columbia, SC**
 
 ## Project Overview
 As Columbia, SC prepares for the reopening of Finlay Park, this project explores the use of Computer Vision to automate park maintenance. By implementing a YOLOv8 object detection model, this system identifies litter in urban green spaces to assist maintenance crews and provide a foundation for future autonomous cleanup robotics.
