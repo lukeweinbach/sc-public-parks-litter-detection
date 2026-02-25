@@ -13,7 +13,7 @@ As Columbia, SC prepares for the reopening of Finlay Park, this project explores
 * **[Final Technical Report](./docs/final-project-report.pdf):** Detailed analysis of hyperparameter tuning (Adam optimizer, weight decay) and performance bottlenecks.
 * **[Technical Notebook](./analysis/litter-detection-final.ipynb):** The full training and evaluation pipeline.
 * **[Model Weights (External Link)]:** Due to file size limits, the `.pt` weights for the optimal model runs are hosted on Google Drive. 
-  * 🔗 **[Download Best Model Weights Here](https://drive.google.com/drive/folders/1qblkHTL7nrIr_CUAgvHIaXIqZEy6LrUD?usp=sharing)**
+  * **[Download Best Model Weights Here](https://drive.google.com/drive/folders/1qblkHTL7nrIr_CUAgvHIaXIqZEy6LrUD?usp=sharing)**
 
 ## Technical Usage
 The included notebook is set up for both training and immediate inference. To test the model without re-training:
